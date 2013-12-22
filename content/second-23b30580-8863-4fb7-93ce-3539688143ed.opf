@@ -3,6 +3,6 @@
     <dc:identifier id="uid"/>
     <dc:title>second</dc:title>
   </metadata>
-  <manifest><item href="second-9a5342cb-aa9e-49ae-b03b-a675caeb9575-nav.html" id="second-9a5342cb-aa9e-49ae-b03b-a675caeb9575-nav.html" media-type="application/xhtml+xml" properties="nav"/><item href="module1-bd7d1b61-d6b4-41b6-916a-17e59f368792.html" id="module1-bd7d1b61-d6b4-41b6-916a-17e59f368792.html" media-type="application/xhtml+xml" properties="mathml scripted"/></manifest>
-  <spine><itemref xmlns="http://www.w3.org/1999/xhtml" idref="module1-bd7d1b61-d6b4-41b6-916a-17e59f368792.html"></itemref></spine>
+  <manifest><item href="second-9a5342cb-aa9e-49ae-b03b-a675caeb9575-nav.html" id="second-9a5342cb-aa9e-49ae-b03b-a675caeb9575-nav.html" media-type="application/xhtml+xml" properties="nav"/><item href="module1-bd7d1b61-d6b4-41b6-916a-17e59f368792.html" id="module1-bd7d1b61-d6b4-41b6-916a-17e59f368792.html" media-type="application/xhtml+xml" properties="mathml scripted"/><item href="t-98f9776e-f784-4460-9d9a-8bd7d53fe83b.html" id="t-98f9776e-f784-4460-9d9a-8bd7d53fe83b.html" media-type="application/xhtml+xml" properties="mathml scripted"/></manifest>
+  <spine><itemref xmlns="http://www.w3.org/1999/xhtml" idref="t-98f9776e-f784-4460-9d9a-8bd7d53fe83b.html"></itemref><itemref xmlns="http://www.w3.org/1999/xhtml" idref="module1-bd7d1b61-d6b4-41b6-916a-17e59f368792.html"></itemref></spine>
 </package>
