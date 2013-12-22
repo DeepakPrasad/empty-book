@@ -9,6 +9,6 @@
   <manifest>
     <item href="mybook-nav.html" media-type="application/xhtml+xml" id="toc" properties="nav"/>
     <item href="module1.html" id="module1.html" media-type="application/xhtml+xml"/>
-  <item href="chapter-1-survey-08726299-c794-4df2-a2a7-feeab37b5a39.html" id="chapter-1-survey-08726299-c794-4df2-a2a7-feeab37b5a39.html" media-type="application/xhtml+xml" properties="mathml scripted"/><item href="two-ec63cd8d-cd55-4871-a6f2-f8435d53a813.html" id="two-ec63cd8d-cd55-4871-a6f2-f8435d53a813.html" media-type="application/xhtml+xml" properties="mathml scripted"/></manifest>
+  <item href="chapter-1-survey-08726299-c794-4df2-a2a7-feeab37b5a39.html" id="chapter-1-survey-08726299-c794-4df2-a2a7-feeab37b5a39.html" media-type="application/xhtml+xml" properties="mathml scripted"/><item href="two-ec63cd8d-cd55-4871-a6f2-f8435d53a813.html" id="two-ec63cd8d-cd55-4871-a6f2-f8435d53a813.html" media-type="application/xhtml+xml" properties="mathml scripted"/><item href="second-9a5342cb-aa9e-49ae-b03b-a675caeb9575-nav.html" id="second-9a5342cb-aa9e-49ae-b03b-a675caeb9575-nav.html" media-type="application/xhtml+xml" properties="mathml scripted"/><item href="module1-bd7d1b61-d6b4-41b6-916a-17e59f368792.html" id="module1-bd7d1b61-d6b4-41b6-916a-17e59f368792.html" media-type="application/xhtml+xml" properties="mathml scripted"/></manifest>
   <spine><itemref xmlns="http://www.w3.org/1999/xhtml" idref="module1.html"></itemref><itemref xmlns="http://www.w3.org/1999/xhtml" idref="two-ec63cd8d-cd55-4871-a6f2-f8435d53a813.html"></itemref></spine>
 </package>
